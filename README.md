@@ -3,7 +3,7 @@ Food Ordering System – Python CLI Application  A simple and interactive comman
 This is a Python-based command-line food ordering system.
 Users can place an order by selecting items from a menu and later modify the order by adding, deleting, or updating items.
 
-Features
+**Features**
 
 ✔ Displays menu options
 ✔ Add multiple items to an order
@@ -11,7 +11,7 @@ Features
 ✔ Validates choices
 ✔ Final bill preview
 
-Tech Used
+**Tech Used**
 
 Python Lists
 
@@ -20,3 +20,19 @@ Conditional Statements
 Loops
 
 User Input Handling
+
+**How to Run**
+python food_ordering_system.py
+
+**Output Example**
+1.Pizza
+2.Breadsticks
+3.Pasta
+4.Burger
+5.Cake
+6.Chips
+Enter Your Item: 1
+Do you want any item (y/n): y
+Enter Your Item: 3
+...
+
